@@ -1,0 +1,13 @@
+.dialogs{
+    bottom: 0;
+    height: 100%;
+    max-height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 200;
+    width: 30%;
+    background: #F8F8F8;
+    float:left;
+    overflow: auto;
+    border-right: 1px solid #E4E4E4;
+  }
