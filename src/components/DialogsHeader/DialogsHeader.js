@@ -6,10 +6,10 @@ export const DialogsHeader = () => {
   return (
     <div className={s.header}>
       <div className={s.container}>
-        <div class={s.userPhoto}>
-          <img class={s.userPhotoImg} src={userPhoto}></img>
+        <div className={s.userPhoto}>
+          <img className={s.userPhotoImg} src={userPhoto} alt = "userPhoto"></img>
         </div>
-        <div class={s.search}>
+        <div className={s.search}>
           <input
             className={s.searchInput}
             placeholder="Search or start new chat"

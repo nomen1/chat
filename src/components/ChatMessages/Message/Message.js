@@ -16,7 +16,7 @@ export const Message = (props) => {
             style={{
               backgroundImage: `url(${props.dialogPhoto})`
             }}
-            class={s.dialogPhotoContent}
+            className={s.dialogPhotoContent}
           ></div>
         </div>
       )}

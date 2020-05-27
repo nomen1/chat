@@ -23,13 +23,13 @@ export const Dialog = (props) => {
               backgroundSize: "cover",
               backgroundRepeat: "no-repeat"
             }}
-            class={s.dialogPhotoContent}
-            src={props.dialog.img}
+            className={s.dialogPhotoContent}
+            
           ></div>
         </div>
         <div className={s.messageContent}>
-          <span class={s.dialogName}>{props.dialog.name}</span>
-          <div class={s.dialogMessageText}>{lastMessage.messageText}</div>
+          <span className={s.dialogName}>{props.dialog.name}</span>
+          <div className={s.dialogMessageText}>{lastMessage.messageText}</div>
         </div>
         <div className={s.dialogDate}>{date}</div>
       

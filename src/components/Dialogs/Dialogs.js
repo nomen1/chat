@@ -4,8 +4,8 @@ import s from "./Dialogs.module.css";
 import { DialogsHeader } from "./../DialogsHeader/DialogsHeader";
 
 const Dialogs = (props) => {
-  let dialogs = props.dialogs.map((item) => {
-    return <Dialog dialog={item} />;
+  let dialogs = props.dialogs.map((item, key) => {
+    return <Dialog dialog={item} key = {key} />;
   });
 
   return (
