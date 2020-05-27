@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chat/static/css/main.ababf2ac.chunk.css",
-    "main.js": "/chat/static/js/main.b9ad1f30.chunk.js",
-    "main.js.map": "/chat/static/js/main.b9ad1f30.chunk.js.map",
+    "main.js": "/chat/static/js/main.ef1c2458.chunk.js",
+    "main.js.map": "/chat/static/js/main.ef1c2458.chunk.js.map",
     "runtime-main.js": "/chat/static/js/runtime-main.fc59ca1d.js",
     "runtime-main.js.map": "/chat/static/js/runtime-main.fc59ca1d.js.map",
     "static/js/2.cdd90a54.chunk.js": "/chat/static/js/2.cdd90a54.chunk.js",
     "static/js/2.cdd90a54.chunk.js.map": "/chat/static/js/2.cdd90a54.chunk.js.map",
     "index.html": "/chat/index.html",
-    "precache-manifest.2dd9644d874a6f60834e428b2aa4292d.js": "/chat/precache-manifest.2dd9644d874a6f60834e428b2aa4292d.js",
+    "precache-manifest.4aa8b56be3352564833d5dbec6051d98.js": "/chat/precache-manifest.4aa8b56be3352564833d5dbec6051d98.js",
     "service-worker.js": "/chat/service-worker.js",
     "static/css/main.ababf2ac.chunk.css.map": "/chat/static/css/main.ababf2ac.chunk.css.map",
     "static/js/2.cdd90a54.chunk.js.LICENSE.txt": "/chat/static/js/2.cdd90a54.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fc59ca1d.js",
     "static/js/2.cdd90a54.chunk.js",
     "static/css/main.ababf2ac.chunk.css",
-    "static/js/main.b9ad1f30.chunk.js"
+    "static/js/main.ef1c2458.chunk.js"
   ]
 }
